@@ -1,12 +1,10 @@
 package ie;
 public class main
 {
-    public static void main(String[] args)
+    public static void Main(String[] args)
     {
-        //loops();
-        system.out.println("YO");
-        // Tara Misty
-        // Tara Tara
+        System.out.println("YO");
+        
         
     }
 }
